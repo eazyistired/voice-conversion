@@ -1,0 +1,9 @@
+Ablation Study Results for hifigan:
+
+       file_id  length_seconds       mcd     pesq
+ custom_5s.wav             5.0 27.397855 1.410477
+custom_15s.wav            15.0 22.990955 1.307025
+custom_30s.wav            30.0 22.306722 2.291259
+
+Average MCD: 24.2318
+Average PESQ: 1.6696

@@ -1,0 +1,2 @@
+Avg MCD: 23.1443
+Avg PESQ: 1.3603

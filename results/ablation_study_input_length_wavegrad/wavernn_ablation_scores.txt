@@ -1,0 +1,9 @@
+Ablation Study Results for wavernn:
+
+       file_id  length_seconds       mcd     pesq
+ custom_5s.wav             5.0 27.407699 1.220668
+custom_15s.wav            15.0 22.985126 1.236645
+custom_30s.wav            30.0 22.301018 2.898851
+
+Average MCD: 24.2313
+Average PESQ: 1.7854

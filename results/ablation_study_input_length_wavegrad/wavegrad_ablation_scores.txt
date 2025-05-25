@@ -1,0 +1,9 @@
+Ablation Study Results for wavegrad:
+
+       file_id  length_seconds       mcd     pesq
+ custom_5s.wav             5.0 27.439182 2.212112
+custom_15s.wav            15.0 22.984879 1.223038
+custom_30s.wav            30.0 22.322964 1.938402
+
+Average MCD: 24.2490
+Average PESQ: 1.7912

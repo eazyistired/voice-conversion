@@ -1,0 +1,6 @@
+Audio: results/ablation_study_temperature_wavernn\wavernn_temp_0.7.wav
+Duration: 3.48s | Inference Time: 2.47s | RTF: 0.709
+Audio: results/ablation_study_temperature_wavernn\wavernn_temp_1.0.wav
+Duration: 3.48s | Inference Time: 2.27s | RTF: 0.651
+Audio: results/ablation_study_temperature_wavernn\wavernn_temp_1.3.wav
+Duration: 3.48s | Inference Time: 2.28s | RTF: 0.655
